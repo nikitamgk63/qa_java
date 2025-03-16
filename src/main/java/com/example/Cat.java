@@ -4,9 +4,9 @@ import java.util.List;
 
 public class Cat {
 
-    com.example.Predator predator;
+    Predator predator;
 
-    public Cat(com.example.Feline feline) {
+    public Cat(Feline feline) {
         this.predator = feline;
     }
 
